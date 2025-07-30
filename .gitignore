@@ -1,0 +1,75 @@
+# Python-generated files (all projects)
+**/__pycache__/
+**/*.py[oc]
+**/build/
+**/dist/
+**/wheels/
+**/*.egg-info/
+
+# Virtual environments (project-specific and root)
+.venv/
+venv/
+env/
+ENV/
+*/venv/
+*/.venv/
+*/env/
+*/ENV/
+
+# Package management
+pip-log.txt
+pip-delete-this-directory.txt
+.pip_modules/
+
+# Testing
+.tox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+**/htmlcov/
+**/.pytest_cache/
+
+# IDEs and editors (since you use VS Code and RStudio)
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+**/.env
+
+# Documentation builds
+docs/_build/
+**/docs/_build/
+
+# Logs
+*.log
+logs/
+**/logs/
+
+# Project-specific patterns
+# (Add patterns specific to your projects here)
+
+# Common temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
